@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dynamic Developer Portfolio \u0026 Admin Dashboard",
+  "description": "A premium, modern, fully dynamic personal developer portfolio powered by MongoDB with an integrated admin management dashboard and REST APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
